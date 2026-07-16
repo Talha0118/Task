@@ -1,0 +1,64 @@
+body{ 
+    background-image: linear-gradient(#e3f5f6ef, rgba(255,255,255,0.5)),
+         url(traffic\ .png)  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+h1 {
+    color: brown;
+}
+.box1 {
+    height: 500px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 80px;
+    padding: 75px;
+    background-color: oklch(76.807% 0.10846 249.425 / 0.828);
+    text-align: center;
+    border: 2px solid;
+
+}
+.box2 {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 20px;
+    padding: auto;
+    background: hsl(0, 87%, 57%);
+    text-align: center;
+    border: 3px solid;
+    border-radius: 50%;
+}
+.box3 {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 20px;
+    padding: auto;
+    background: lab(41.87% 30.91 -68.74);
+    text-align: center;
+    border: 3px solid;
+    border-radius: 50%;
+
+}
+.box4 {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 20px;
+    padding: auto;
+    background: lab(81.86% -27.73 77.4);
+    text-align: center;
+    border: 3px solid;
+    border-radius: 50%;
+}
